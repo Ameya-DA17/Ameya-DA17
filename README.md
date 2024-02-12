@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ameya Vaidya</h1>
 <h3 align="center">Data Analyst | Turning Numbers into Narratives | Advanced Excel, Power BI, Tableau, SQL, Python, R, and Statistics</h3>
 
+
+
 <img align ="right" alt ="analyst" width ="400" src= "https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 - 📫 How to reach me **ameyavaidya17@gmail.com**
